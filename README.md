@@ -5,6 +5,12 @@
 </a>
 
 Create a recommendation system for Airbnb users based on listing features, user preferences, and review scores.
+## plots
+![nlp](https://github.com/user-attachments/assets/45a33f3d-869b-4536-8cb9-dd1ac1d78c20)
+![cluster](https://github.com/user-attachments/assets/141e07bd-1597-4051-8a98-696017b3d439)
+![bar_plt2](https://github.com/user-attachments/assets/d3bad030-56eb-4389-9dd4-d8cc03ff2dbd)
+![bar_plt](https://github.com/user-attachments/assets/52bc8fdb-9446-4864-b0dc-08b0d545610d)
+![nlp_2](https://github.com/user-attachments/assets/e78f18ec-f059-4161-850c-7106f016b99c)
 
 ## Project Organization
 
@@ -59,4 +65,5 @@ Create a recommendation system for Airbnb users based on listing features, user 
 ```
 
 --------
+
 
